@@ -13,7 +13,7 @@ Ensure you have:
 
 Setup
 - Clone the repository:
-git clone <repository-url>
+git clone <rhttps://github.com/mzb527/Testproject>
 cd flask-api
 pipenv install
 pipenv shell
